@@ -1,7 +1,7 @@
 # DIGHUM101-project
 Repository for individual project in DIGHUM101 2022 at UC Berkeley.
 
-![Alt text](https://drive.google.com/file/d/1mySgqx9eW1Yqk-yqCh9ap3tU9dgp3AJT/view?usp=sharing "Sentimen analysis of Stock")
+![sentiment analysis on Stock](https://drive.google.com/file/d/1mySgqx9eW1Yqk-yqCh9ap3tU9dgp3AJT/view?usp=sharing)
 
 In real stock market, prices can be affected by many factors, such as the investment size, policy, and transactions. However, nowadays, most stock investors make decisions on whether to buy or sell their stocks based on the trending news. When people realize that the price of a particular stock will rise, they will buy the stock. On the other hand, if they realize that the price of the stock will decline, they can sell it. With the real-time information available to us on massive social media platforms like Twitter, facebook, we have the ability to get an important insight on stock’s performance based on general public opinions. 
 
