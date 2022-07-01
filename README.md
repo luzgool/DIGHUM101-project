@@ -20,7 +20,6 @@ In this project, I want to investigate the impact of investors’ reviews on the
 * Notebooks: Main notebook 
 
 ## Files
-* .gitignore A file for ignoring changes to this repository
 
 * README.md Contains the text on this page.
 
